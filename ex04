@@ -1,0 +1,30 @@
+<head>
+
+
+
+</head>
+
+
+
+
+<body>
+
+<p> This part of the line is set as <strong> strong </strong>  using strong script </p>
+
+<p> This part of the line is set as <b> strong </b>  using bold script </p>
+
+
+<p> This part of the line is set as <ins> Underlined  </ins>  using Ins script </p>
+
+
+<p> This part of the line is set as <em>  italic </em>   using em script </p>
+
+
+
+<p> This part of the line is set as <sub> Subscript  </sub>  using Sub script </p>
+
+<p> This part of the line is set as <sup> Supscript  <sup>  using sup script </p>
+
+
+
+</body>
